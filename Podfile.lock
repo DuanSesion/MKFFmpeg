@@ -1,0 +1,21 @@
+PODS:
+  - MKFFmpeg (0.0.1)
+  - MKOpenssl (0.0.1)
+
+DEPENDENCIES:
+  - MKFFmpeg (from `./`)
+  - MKOpenssl (from `./`)
+
+EXTERNAL SOURCES:
+  MKFFmpeg:
+    :path: "./"
+  MKOpenssl:
+    :path: "./"
+
+SPEC CHECKSUMS:
+  MKFFmpeg: 29024d5b7cc0bcf2f499a56f085d1d00fdfd42ab
+  MKOpenssl: 7c77c236fa0db3059ff00dcad1f906114486ed9d
+
+PODFILE CHECKSUM: dd42d8e1c9d4ebd55ba9ec054bbd44b191f439a8
+
+COCOAPODS: 1.11.3
